@@ -1,0 +1,162 @@
+[2021-07-16 14:09:34.395] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-07-16 14:09:34.395] [remoteagent] [info] Extension host agent started.
+[2021-07-16 14:09:35.430] [remoteagent] [error] [127.0.0.1][568437ca][ManagementConnection] Unknown reconnection token.
+[2021-07-16 14:09:35.747] [remoteagent] [error] [127.0.0.1][13f27753][ManagementConnection] Unknown reconnection token.
+[2021-07-17 19:03:24.662] [remoteagent] [info] [127.0.0.1][9459d4c6][ManagementConnection] New connection established.
+[2021-07-17 19:03:25.213] [remoteagent] [info] [127.0.0.1][f87b09f2][ExtensionHostConnection] New connection established.
+[2021-07-17 19:03:25.616] [remoteagent] [info] [127.0.0.1][f87b09f2][ExtensionHostConnection] <24745> Launched Extension Host Process.
+[2021-07-17 21:01:04.283] [remoteagent] [info] [127.0.0.1][92c7cdcc][ManagementConnection] New connection established.
+[2021-07-17 21:01:04.840] [remoteagent] [info] [127.0.0.1][c13d4353][ExtensionHostConnection] New connection established.
+[2021-07-17 21:01:04.849] [remoteagent] [info] [127.0.0.1][c13d4353][ExtensionHostConnection] <26175> Launched Extension Host Process.
+[2021-07-17 21:01:05.602] [remoteagent] [warning] Resolved variables received without matching request 31
+[2021-07-17 21:01:05.603] [remoteagent] [warning] Resolved variables received without matching request 32
+[2021-07-17 21:01:06.867] [remoteagent] [warning] Resolved variables received without matching request 33
+[2021-07-17 21:01:06.867] [remoteagent] [warning] Resolved variables received without matching request 34
+[2021-07-17 21:01:07.009] [remoteagent] [warning] Resolved variables received without matching request 35
+[2021-07-17 21:01:07.009] [remoteagent] [warning] Resolved variables received without matching request 36
+[2021-07-17 21:01:07.024] [remoteagent] [warning] Resolved variables received without matching request 37
+[2021-07-17 21:01:07.024] [remoteagent] [warning] Resolved variables received without matching request 38
+[2021-07-17 21:01:07.045] [remoteagent] [warning] Resolved variables received without matching request 39
+[2021-07-17 21:01:07.326] [remoteagent] [warning] Resolved variables received without matching request 40
+[2021-07-17 21:01:07.326] [remoteagent] [warning] Resolved variables received without matching request 41
+[2021-07-17 21:01:07.352] [remoteagent] [warning] Resolved variables received without matching request 42
+[2021-07-17 21:01:07.701] [remoteagent] [warning] Resolved variables received without matching request 43
+[2021-07-17 21:01:07.864] [remoteagent] [warning] Resolved variables received without matching request 44
+[2021-07-17 21:01:08.161] [remoteagent] [warning] Resolved variables received without matching request 45
+[2021-07-17 21:01:09.044] [remoteagent] [warning] Resolved variables received without matching request 46
+[2021-07-17 21:01:09.354] [remoteagent] [warning] Resolved variables received without matching request 47
+[2021-07-17 21:01:09.667] [remoteagent] [warning] Resolved variables received without matching request 48
+[2021-07-17 21:01:09.936] [remoteagent] [warning] Resolved variables received without matching request 49
+[2021-07-17 21:01:10.206] [remoteagent] [warning] Resolved variables received without matching request 50
+[2021-07-17 21:01:11.384] [remoteagent] [warning] Resolved variables received without matching request 51
+[2021-07-17 21:01:11.652] [remoteagent] [warning] Resolved variables received without matching request 52
+[2021-07-17 21:01:11.922] [remoteagent] [warning] Resolved variables received without matching request 53
+[2021-07-17 21:01:12.190] [remoteagent] [warning] Resolved variables received without matching request 54
+[2021-07-17 21:01:12.458] [remoteagent] [warning] Resolved variables received without matching request 55
+[2021-07-17 21:01:13.395] [remoteagent] [warning] Resolved variables received without matching request 56
+[2021-07-17 21:01:13.665] [remoteagent] [warning] Resolved variables received without matching request 57
+[2021-07-17 21:01:13.937] [remoteagent] [warning] Resolved variables received without matching request 58
+[2021-07-17 21:01:14.203] [remoteagent] [warning] Resolved variables received without matching request 59
+[2021-07-17 21:01:14.470] [remoteagent] [warning] Resolved variables received without matching request 60
+[2021-07-17 21:09:10.770] [remoteagent] [warning] Resolved variables received without matching request 61
+[2021-07-17 21:09:10.999] [remoteagent] [warning] Resolved variables received without matching request 62
+[2021-07-17 21:09:11.266] [remoteagent] [warning] Resolved variables received without matching request 63
+[2021-07-17 21:09:11.537] [remoteagent] [warning] Resolved variables received without matching request 64
+[2021-07-17 21:09:11.810] [remoteagent] [warning] Resolved variables received without matching request 65
+[2021-07-17 21:09:12.644] [remoteagent] [warning] Resolved variables received without matching request 66
+[2021-07-17 21:09:12.954] [remoteagent] [warning] Resolved variables received without matching request 67
+[2021-07-17 21:09:13.183] [remoteagent] [warning] Resolved variables received without matching request 68
+[2021-07-17 21:09:13.454] [remoteagent] [warning] Resolved variables received without matching request 69
+[2021-07-17 21:09:13.724] [remoteagent] [warning] Resolved variables received without matching request 70
+[2021-07-17 21:09:46.877] [remoteagent] [warning] Resolved variables received without matching request 71
+[2021-07-17 21:09:47.149] [remoteagent] [warning] Resolved variables received without matching request 72
+[2021-07-17 21:09:47.419] [remoteagent] [warning] Resolved variables received without matching request 73
+[2021-07-17 21:09:47.687] [remoteagent] [warning] Resolved variables received without matching request 74
+[2021-07-17 21:09:47.959] [remoteagent] [warning] Resolved variables received without matching request 75
+[2021-07-17 21:09:48.808] [remoteagent] [warning] Resolved variables received without matching request 76
+[2021-07-17 21:09:49.116] [remoteagent] [warning] Resolved variables received without matching request 77
+[2021-07-17 21:09:49.346] [remoteagent] [warning] Resolved variables received without matching request 78
+[2021-07-17 21:09:49.616] [remoteagent] [warning] Resolved variables received without matching request 79
+[2021-07-17 21:09:49.895] [remoteagent] [warning] Resolved variables received without matching request 80
+[2021-07-17 21:22:20.140] [remoteagent] [warning] Resolved variables received without matching request 81
+[2021-07-17 21:22:20.410] [remoteagent] [warning] Resolved variables received without matching request 82
+[2021-07-17 21:22:20.679] [remoteagent] [warning] Resolved variables received without matching request 83
+[2021-07-17 21:22:20.952] [remoteagent] [warning] Resolved variables received without matching request 84
+[2021-07-17 21:22:21.225] [remoteagent] [warning] Resolved variables received without matching request 85
+[2021-07-17 21:22:22.083] [remoteagent] [warning] Resolved variables received without matching request 86
+[2021-07-17 21:22:22.355] [remoteagent] [warning] Resolved variables received without matching request 87
+[2021-07-17 21:22:22.624] [remoteagent] [warning] Resolved variables received without matching request 88
+[2021-07-17 21:22:22.894] [remoteagent] [warning] Resolved variables received without matching request 89
+[2021-07-17 21:22:23.165] [remoteagent] [warning] Resolved variables received without matching request 90
+[2021-07-17 21:25:03.317] [remoteagent] [warning] Resolved variables received without matching request 91
+[2021-07-17 21:25:03.586] [remoteagent] [warning] Resolved variables received without matching request 92
+[2021-07-17 21:25:03.855] [remoteagent] [warning] Resolved variables received without matching request 93
+[2021-07-17 21:25:04.126] [remoteagent] [warning] Resolved variables received without matching request 94
+[2021-07-17 21:25:04.396] [remoteagent] [warning] Resolved variables received without matching request 95
+[2021-07-17 21:25:05.305] [remoteagent] [warning] Resolved variables received without matching request 96
+[2021-07-17 21:25:05.576] [remoteagent] [warning] Resolved variables received without matching request 97
+[2021-07-17 21:25:05.846] [remoteagent] [warning] Resolved variables received without matching request 98
+[2021-07-17 21:25:06.116] [remoteagent] [warning] Resolved variables received without matching request 99
+[2021-07-17 21:25:06.385] [remoteagent] [warning] Resolved variables received without matching request 100
+[2021-07-17 21:28:44.749] [remoteagent] [warning] Resolved variables received without matching request 101
+[2021-07-17 21:28:45.018] [remoteagent] [warning] Resolved variables received without matching request 102
+[2021-07-17 21:28:45.289] [remoteagent] [warning] Resolved variables received without matching request 103
+[2021-07-17 21:28:45.559] [remoteagent] [warning] Resolved variables received without matching request 104
+[2021-07-17 21:28:45.830] [remoteagent] [warning] Resolved variables received without matching request 105
+[2021-07-17 21:28:46.688] [remoteagent] [warning] Resolved variables received without matching request 106
+[2021-07-17 21:28:46.973] [remoteagent] [warning] Resolved variables received without matching request 107
+[2021-07-17 21:28:47.227] [remoteagent] [warning] Resolved variables received without matching request 108
+[2021-07-17 21:28:47.497] [remoteagent] [warning] Resolved variables received without matching request 109
+[2021-07-17 21:28:47.774] [remoteagent] [warning] Resolved variables received without matching request 110
+[2021-07-17 21:40:42.622] [remoteagent] [warning] Resolved variables received without matching request 111
+[2021-07-17 21:40:42.892] [remoteagent] [warning] Resolved variables received without matching request 112
+[2021-07-17 21:40:43.224] [remoteagent] [warning] Resolved variables received without matching request 113
+[2021-07-17 21:40:43.459] [remoteagent] [warning] Resolved variables received without matching request 114
+[2021-07-17 21:40:43.728] [remoteagent] [warning] Resolved variables received without matching request 115
+[2021-07-17 21:40:44.551] [remoteagent] [warning] Resolved variables received without matching request 116
+[2021-07-17 21:40:44.861] [remoteagent] [warning] Resolved variables received without matching request 117
+[2021-07-17 21:40:45.090] [remoteagent] [warning] Resolved variables received without matching request 118
+[2021-07-17 21:40:45.359] [remoteagent] [warning] Resolved variables received without matching request 119
+[2021-07-17 21:40:45.629] [remoteagent] [warning] Resolved variables received without matching request 120
+[2021-07-17 21:41:05.868] [remoteagent] [warning] Resolved variables received without matching request 121
+[2021-07-17 21:41:06.139] [remoteagent] [warning] Resolved variables received without matching request 122
+[2021-07-17 21:41:06.450] [remoteagent] [warning] Resolved variables received without matching request 123
+[2021-07-17 21:41:06.680] [remoteagent] [warning] Resolved variables received without matching request 124
+[2021-07-17 21:41:06.953] [remoteagent] [warning] Resolved variables received without matching request 125
+[2021-07-17 21:41:07.815] [remoteagent] [warning] Resolved variables received without matching request 126
+[2021-07-17 21:41:08.109] [remoteagent] [warning] Resolved variables received without matching request 127
+[2021-07-17 21:41:08.336] [remoteagent] [warning] Resolved variables received without matching request 128
+[2021-07-17 21:41:08.606] [remoteagent] [warning] Resolved variables received without matching request 129
+[2021-07-17 21:41:08.876] [remoteagent] [warning] Resolved variables received without matching request 130
+[2021-07-17 22:10:23.596] [remoteagent] [warning] Resolved variables received without matching request 131
+[2021-07-17 22:10:23.870] [remoteagent] [warning] Resolved variables received without matching request 132
+[2021-07-17 22:10:24.174] [remoteagent] [warning] Resolved variables received without matching request 133
+[2021-07-17 22:10:24.449] [remoteagent] [warning] Resolved variables received without matching request 134
+[2021-07-17 22:10:24.789] [remoteagent] [warning] Resolved variables received without matching request 135
+[2021-07-17 22:10:25.605] [remoteagent] [warning] Resolved variables received without matching request 136
+[2021-07-17 22:10:25.914] [remoteagent] [warning] Resolved variables received without matching request 137
+[2021-07-17 22:10:26.196] [remoteagent] [warning] Resolved variables received without matching request 138
+[2021-07-17 22:10:26.466] [remoteagent] [warning] Resolved variables received without matching request 139
+[2021-07-17 22:10:26.740] [remoteagent] [warning] Resolved variables received without matching request 140
+[2021-07-17 22:32:45.305] [remoteagent] [info] [127.0.0.1][f87b09f2][ExtensionHostConnection] The client has reconnected.
+[2021-07-17 22:32:51.771] [remoteagent] [info] [127.0.0.1][92c7cdcc][ManagementConnection] The client has reconnected.
+[2021-07-17 22:32:52.078] [remoteagent] [info] [127.0.0.1][9459d4c6][ManagementConnection] The client has reconnected.
+[2021-07-17 22:32:52.395] [remoteagent] [info] [127.0.0.1][c13d4353][ExtensionHostConnection] The client has reconnected.
+[2021-07-17 22:32:52.406] [remoteagent] [warning] Resolved variables received without matching request 141
+[2021-07-17 22:32:52.406] [remoteagent] [warning] Resolved variables received without matching request 142
+[2021-07-17 22:32:52.705] [remoteagent] [info] [127.0.0.1][f87b09f2][ExtensionHostConnection] The client has reconnected.
+[2021-07-17 22:32:52.705] [remoteagent] [warning] Resolved variables received without matching request 143
+[2021-07-17 22:32:52.705] [remoteagent] [warning] Resolved variables received without matching request 144
+[2021-07-17 22:32:52.717] [remoteagent] [warning] Resolved variables received without matching request 145
+[2021-07-17 22:32:52.717] [remoteagent] [warning] Resolved variables received without matching request 146
+[2021-07-17 22:32:53.004] [remoteagent] [warning] Resolved variables received without matching request 147
+[2021-07-17 22:32:53.004] [remoteagent] [warning] Resolved variables received without matching request 148
+[2021-07-17 22:32:53.005] [remoteagent] [warning] Resolved variables received without matching request 149
+[2021-07-17 22:32:53.005] [remoteagent] [warning] Resolved variables received without matching request 150
+[2021-07-17 22:32:53.272] [remoteagent] [warning] Resolved variables received without matching request 151
+[2021-07-17 22:32:53.272] [remoteagent] [warning] Resolved variables received without matching request 152
+[2021-07-17 22:32:53.274] [remoteagent] [warning] Resolved variables received without matching request 153
+[2021-07-17 22:32:53.274] [remoteagent] [warning] Resolved variables received without matching request 154
+[2021-07-17 22:32:53.622] [remoteagent] [warning] Resolved variables received without matching request 155
+[2021-07-17 22:32:53.622] [remoteagent] [warning] Resolved variables received without matching request 156
+[2021-07-17 22:32:53.623] [remoteagent] [warning] Resolved variables received without matching request 157
+[2021-07-17 22:32:53.623] [remoteagent] [warning] Resolved variables received without matching request 158
+[2021-07-17 22:32:53.929] [remoteagent] [warning] Resolved variables received without matching request 159
+[2021-07-17 22:32:53.929] [remoteagent] [warning] Resolved variables received without matching request 160
+[2021-07-17 22:49:31.781] [remoteagent] [info] [127.0.0.1][92c7cdcc][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-07-17 22:49:31.781] [remoteagent] [info] [127.0.0.1][9459d4c6][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-07-18 01:49:25.906] [remoteagent] [info] [127.0.0.1][f87b09f2][ExtensionHostConnection] <24745> Extension Host Process exited with code: 0, signal: null.
+[2021-07-18 01:49:25.907] [remoteagent] [info] [127.0.0.1][c13d4353][ExtensionHostConnection] <26175> Extension Host Process exited with code: 0, signal: null.
+[2021-07-18 01:49:25.907] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-07-18 01:49:31.781] [remoteagent] [info] [127.0.0.1][92c7cdcc][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2021-07-18 01:49:31.787] [remoteagent] [info] [127.0.0.1][9459d4c6][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2021-07-18 01:54:25.908] [remoteagent] [info] Last EH closed, shutting down

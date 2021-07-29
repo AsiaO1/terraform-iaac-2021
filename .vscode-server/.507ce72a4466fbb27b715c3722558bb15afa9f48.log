@@ -1,0 +1,288 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 35199
+
+[16:06:26] Extension host agent started.
+[16:06:27] [127.0.0.1][f097a72d][ManagementConnection] Unknown reconnection token.
+[16:06:28] [127.0.0.1][13eb6c97][ManagementConnection] Unknown reconnection token.
+[16:06:28] [127.0.0.1][5ba59760][ManagementConnection] Unknown reconnection token.
+[22:58:29] [127.0.0.1][73351b9c][ManagementConnection] New connection established.
+[22:58:29] [127.0.0.1][1758d6ec][ExtensionHostConnection] New connection established.
+[22:58:29] [127.0.0.1][1758d6ec][ExtensionHostConnection] <22060> Launched Extension Host Process.
+[22:58:31] *
+[22:58:31] baseEnv {
+  XDG_SESSION_ID: '1584',
+  HOSTNAME: 'ip-172-31-21-139.eu-west-1.compute.internal',
+  SHELL: '/bin/bash',
+  HISTSIZE: '1000',
+  SSH_CLIENT: '106.168.251.236 55096 22',
+  USER: 'ec2-user',
+  VSCODE_AGENT_FOLDER: '/home/ec2-user/.vscode-server',
+  MAIL: '/var/spool/mail/ec2-user',
+  PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/home/ec2-user/.local/bin:/home/ec2-user/bin',
+  PWD: '/home/ec2-user',
+  LANG: 'en_US.UTF-8',
+  HISTCONTROL: 'ignoredups',
+  SHLVL: '4',
+  HOME: '/home/ec2-user',
+  LOGNAME: 'ec2-user',
+  SSH_CONNECTION: '106.168.251.236 55096 172.31.21.139 22',
+  LC_CTYPE: 'UTF-8',
+  LESSOPEN: '||/usr/bin/lesspipe.sh %s',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  _: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules',
+  VSCODE_CWD: '/home/ec2-user',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin/helpers/browser.sh'
+}
+[22:58:32] *
+[22:58:32] baseEnv {
+  XDG_SESSION_ID: '1584',
+  HOSTNAME: 'ip-172-31-21-139.eu-west-1.compute.internal',
+  SHELL: '/bin/bash',
+  HISTSIZE: '1000',
+  SSH_CLIENT: '106.168.251.236 55096 22',
+  USER: 'ec2-user',
+  VSCODE_AGENT_FOLDER: '/home/ec2-user/.vscode-server',
+  MAIL: '/var/spool/mail/ec2-user',
+  PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/home/ec2-user/.local/bin:/home/ec2-user/bin',
+  PWD: '/home/ec2-user',
+  LANG: 'en_US.UTF-8',
+  HISTCONTROL: 'ignoredups',
+  SHLVL: '4',
+  HOME: '/home/ec2-user',
+  LOGNAME: 'ec2-user',
+  SSH_CONNECTION: '106.168.251.236 55096 172.31.21.139 22',
+  LC_CTYPE: 'UTF-8',
+  LESSOPEN: '||/usr/bin/lesspipe.sh %s',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  _: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules',
+  VSCODE_CWD: '/home/ec2-user',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin/helpers/browser.sh'
+}
+[22:58:33] *
+[22:58:33] baseEnv {
+  XDG_SESSION_ID: '1584',
+  HOSTNAME: 'ip-172-31-21-139.eu-west-1.compute.internal',
+  SHELL: '/bin/bash',
+  HISTSIZE: '1000',
+  SSH_CLIENT: '106.168.251.236 55096 22',
+  USER: 'ec2-user',
+  VSCODE_AGENT_FOLDER: '/home/ec2-user/.vscode-server',
+  MAIL: '/var/spool/mail/ec2-user',
+  PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/home/ec2-user/.local/bin:/home/ec2-user/bin',
+  PWD: '/home/ec2-user',
+  LANG: 'en_US.UTF-8',
+  HISTCONTROL: 'ignoredups',
+  SHLVL: '4',
+  HOME: '/home/ec2-user',
+  LOGNAME: 'ec2-user',
+  SSH_CONNECTION: '106.168.251.236 55096 172.31.21.139 22',
+  LC_CTYPE: 'UTF-8',
+  LESSOPEN: '||/usr/bin/lesspipe.sh %s',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  _: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules',
+  VSCODE_CWD: '/home/ec2-user',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin/helpers/browser.sh'
+}
+[01:29:59] *
+[01:29:59] baseEnv {
+  XDG_SESSION_ID: '1584',
+  HOSTNAME: 'ip-172-31-21-139.eu-west-1.compute.internal',
+  SHELL: '/bin/bash',
+  HISTSIZE: '1000',
+  SSH_CLIENT: '106.168.251.236 55096 22',
+  USER: 'ec2-user',
+  VSCODE_AGENT_FOLDER: '/home/ec2-user/.vscode-server',
+  MAIL: '/var/spool/mail/ec2-user',
+  PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/home/ec2-user/.local/bin:/home/ec2-user/bin',
+  PWD: '/home/ec2-user',
+  LANG: 'en_US.UTF-8',
+  HISTCONTROL: 'ignoredups',
+  SHLVL: '4',
+  HOME: '/home/ec2-user',
+  LOGNAME: 'ec2-user',
+  SSH_CONNECTION: '106.168.251.236 55096 172.31.21.139 22',
+  LC_CTYPE: 'UTF-8',
+  LESSOPEN: '||/usr/bin/lesspipe.sh %s',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  _: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules',
+  VSCODE_CWD: '/home/ec2-user',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin/helpers/browser.sh'
+}
+[01:30:18] *
+[01:30:18] baseEnv {
+  XDG_SESSION_ID: '1584',
+  HOSTNAME: 'ip-172-31-21-139.eu-west-1.compute.internal',
+  SHELL: '/bin/bash',
+  HISTSIZE: '1000',
+  SSH_CLIENT: '106.168.251.236 55096 22',
+  USER: 'ec2-user',
+  VSCODE_AGENT_FOLDER: '/home/ec2-user/.vscode-server',
+  MAIL: '/var/spool/mail/ec2-user',
+  PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/home/ec2-user/.local/bin:/home/ec2-user/bin',
+  PWD: '/home/ec2-user',
+  LANG: 'en_US.UTF-8',
+  HISTCONTROL: 'ignoredups',
+  SHLVL: '4',
+  HOME: '/home/ec2-user',
+  LOGNAME: 'ec2-user',
+  SSH_CONNECTION: '106.168.251.236 55096 172.31.21.139 22',
+  LC_CTYPE: 'UTF-8',
+  LESSOPEN: '||/usr/bin/lesspipe.sh %s',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  _: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules',
+  VSCODE_CWD: '/home/ec2-user',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin/helpers/browser.sh'
+}
+[01:42:10] *
+[01:42:10] baseEnv {
+  XDG_SESSION_ID: '1584',
+  HOSTNAME: 'ip-172-31-21-139.eu-west-1.compute.internal',
+  SHELL: '/bin/bash',
+  HISTSIZE: '1000',
+  SSH_CLIENT: '106.168.251.236 55096 22',
+  USER: 'ec2-user',
+  VSCODE_AGENT_FOLDER: '/home/ec2-user/.vscode-server',
+  MAIL: '/var/spool/mail/ec2-user',
+  PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/home/ec2-user/.local/bin:/home/ec2-user/bin',
+  PWD: '/home/ec2-user',
+  LANG: 'en_US.UTF-8',
+  HISTCONTROL: 'ignoredups',
+  SHLVL: '4',
+  HOME: '/home/ec2-user',
+  LOGNAME: 'ec2-user',
+  SSH_CONNECTION: '106.168.251.236 55096 172.31.21.139 22',
+  LC_CTYPE: 'UTF-8',
+  LESSOPEN: '||/usr/bin/lesspipe.sh %s',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  _: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules',
+  VSCODE_CWD: '/home/ec2-user',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin/helpers/browser.sh'
+}
+[01:42:30] *
+[01:42:30] baseEnv {
+  XDG_SESSION_ID: '1584',
+  HOSTNAME: 'ip-172-31-21-139.eu-west-1.compute.internal',
+  SHELL: '/bin/bash',
+  HISTSIZE: '1000',
+  SSH_CLIENT: '106.168.251.236 55096 22',
+  USER: 'ec2-user',
+  VSCODE_AGENT_FOLDER: '/home/ec2-user/.vscode-server',
+  MAIL: '/var/spool/mail/ec2-user',
+  PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ec2-user/.local/bin:/home/ec2-user/bin:/home/ec2-user/.local/bin:/home/ec2-user/bin',
+  PWD: '/home/ec2-user',
+  LANG: 'en_US.UTF-8',
+  HISTCONTROL: 'ignoredups',
+  SHLVL: '4',
+  HOME: '/home/ec2-user',
+  LOGNAME: 'ec2-user',
+  SSH_CONNECTION: '106.168.251.236 55096 172.31.21.139 22',
+  LC_CTYPE: 'UTF-8',
+  LESSOPEN: '||/usr/bin/lesspipe.sh %s',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  _: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules',
+  VSCODE_CWD: '/home/ec2-user',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin/helpers/browser.sh'
+}
+[02:28:26] [127.0.0.1][1758d6ec][ExtensionHostConnection] The client has reconnected.
+[02:28:32] [127.0.0.1][73351b9c][ManagementConnection] The client has reconnected.
+[02:28:33] [127.0.0.1][1758d6ec][ExtensionHostConnection] The client has reconnected.
+[02:45:06] [127.0.0.1][73351b9c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[03:00:13] [127.0.0.1][73351b9c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[03:00:13] [127.0.0.1][73351b9c][ManagementConnection] The client has reconnected.
+[03:00:44] [127.0.0.1][1758d6ec][ExtensionHostConnection] The client has reconnected.
+[03:03:25] [127.0.0.1][73351b9c][ManagementConnection] The client has reconnected.
+[03:03:56] [127.0.0.1][1758d6ec][ExtensionHostConnection] The client has reconnected.
+[03:20:46] [127.0.0.1][73351b9c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[03:40:04] [127.0.0.1][73351b9c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[03:40:04] [127.0.0.1][73351b9c][ManagementConnection] The client has reconnected.
+[03:40:35] [127.0.0.1][1758d6ec][ExtensionHostConnection] The client has reconnected.
+[03:54:52] [127.0.0.1][73351b9c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ec2-user/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[03:54:52] [127.0.0.1][73351b9c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[03:54:52] [127.0.0.1][73351b9c][ManagementConnection] The client has reconnected.
+[03:55:22] [127.0.0.1][1758d6ec][ExtensionHostConnection] The client has reconnected.
+[03:59:11] [127.0.0.1][73351b9c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[03:59:12] [127.0.0.1][1758d6ec][ExtensionHostConnection] <22060> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[03:59:12] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[04:04:12] Last EH closed, shutting down

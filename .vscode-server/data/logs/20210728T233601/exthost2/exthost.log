@@ -1,0 +1,20 @@
+[2021-07-28 23:36:07.568] [exthost] [info] extension host started
+[2021-07-28 23:36:07.593] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/552120166d2923d5e46f6c692ba775de/vscode.lock': Lock acquired.
+[2021-07-28 23:36:07.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-28 23:36:07.889] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-auto-launch/dist/extension
+[2021-07-28 23:36:07.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-28 23:36:07.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/git/dist/main
+[2021-07-28 23:36:08.901] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-28 23:36:08.902] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/github/dist/extension.js
+[2021-07-28 23:36:09.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-28 23:36:09.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-28 23:36:09.313] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-28 23:36:09.313] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-28 23:36:09.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-28 23:36:09.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-28 23:36:09.326] [exthost] [info] eager extensions activated
+[2021-07-28 23:36:09.486] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-28 23:36:09.486] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-29 02:49:02.161] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-07-29 02:49:02.162] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/552120166d2923d5e46f6c692ba775de/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-07-29 02:49:03.181] [exthost] [info] exiting with code 0

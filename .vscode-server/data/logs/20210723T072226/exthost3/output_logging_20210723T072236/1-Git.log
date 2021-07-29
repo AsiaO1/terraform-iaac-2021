@@ -1,0 +1,235 @@
+Validating found git in: git
+Using git 2.23.4 from git
+> git rev-parse --git-dir
+Open repository: /home/ec2-user/terraform-iaac-2021
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair-file.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/key-pair/key-pair-file.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/provider.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/key-pair/provider.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair-file.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/key-pair/key-pair-file.tf
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/terraform_aws/key-pair-file.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_aws/key-pair-file.tf
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/terraform_ec2/key-pair-file.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2/key-pair-file.tf
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/terraform_ec2/.terraform/modules/modules.json
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2/.terraform/modules/modules.json
+> git show --textconv :interactive-learning-tasks/terraform_ec2/key-pair-file.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2/key-pair-file.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/terraform_ec2/output.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2/output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2/output.tf
+> git show --textconv :interactive-learning-tasks/terraform_ec2/output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/terraform_ec2/provider.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2/provider.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/terraform_ec2_ticket2/provider.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2_ticket2/provider.tf
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/README.md
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git show --textconv :interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git show --textconv :interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git show --textconv :interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git show --textconv :interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git show --textconv :interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-iaac-2021/interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git show --textconv :interactive-learning-tasks/terraform_ec2_ticket4/sec_group.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ec2-user/terraform-iaac-2021/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template

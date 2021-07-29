@@ -1,0 +1,17 @@
+[2021-07-29 13:05:13.449] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-07-29 13:05:13.449] [remoteagent] [info] Extension host agent started.
+[2021-07-29 13:05:14.279] [remoteagent] [error] [127.0.0.1][0266cd6b][ManagementConnection] Unknown reconnection token.
+[2021-07-29 13:05:14.339] [remoteagent] [error] [127.0.0.1][accdb752][ManagementConnection] Unknown reconnection token.
+[2021-07-29 13:05:20.062] [remoteagent] [error] [127.0.0.1][fd03383d][ManagementConnection] Unknown reconnection token.
+[2021-07-29 13:06:29.685] [remoteagent] [info] [127.0.0.1][9a845b38][ManagementConnection] New connection established.
+[2021-07-29 13:06:30.066] [remoteagent] [info] [127.0.0.1][545fb90c][ExtensionHostConnection] New connection established.
+[2021-07-29 13:06:30.159] [remoteagent] [info] [127.0.0.1][545fb90c][ExtensionHostConnection] <8980> Launched Extension Host Process.

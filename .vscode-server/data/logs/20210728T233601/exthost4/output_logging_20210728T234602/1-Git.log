@@ -1,0 +1,25 @@
+Validating found git in: git
+Using git 2.23.4 from git
+> git rev-parse --git-dir
+Open repository: /home/ec2-user
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/ec2-user' failed; ex=Canceled: Canceled
+Opening repository for path='/home/ec2-user/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ec2-user/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ec2-user/.bash_profile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ec2-user/.bashrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ec2-user/.gitconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ec2-user/.gitignore' failed; ex=Error: spawn ENOTDIR
+Open repository: /home/ec2-user
+Opening repository for path='/home/ec2-user/.packer.d' failed; ex=Canceled: Canceled

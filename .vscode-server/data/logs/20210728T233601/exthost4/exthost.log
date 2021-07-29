@@ -1,0 +1,26 @@
+[2021-07-28 23:46:01.476] [exthost] [info] extension host started
+[2021-07-28 23:46:01.549] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/9cf55c7c58354e64bdc50704804ce391/vscode.lock': Lock acquired.
+[2021-07-28 23:46:01.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-28 23:46:01.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-auto-launch/dist/extension
+[2021-07-28 23:46:01.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-28 23:46:01.880] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/git/dist/main
+[2021-07-28 23:46:02.906] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-28 23:46:02.906] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/github/dist/extension.js
+[2021-07-28 23:46:03.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-28 23:46:03.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-28 23:46:03.349] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-28 23:46:03.350] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-28 23:46:03.355] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-28 23:46:03.356] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-28 23:46:03.358] [exthost] [info] eager extensions activated
+[2021-07-28 23:46:03.559] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-28 23:46:03.559] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-28 23:49:08.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-07-28 23:49:08.224] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/extension-editing/dist/extensionEditingMain
+[2021-07-28 23:49:08.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-07-28 23:49:08.250] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/markdown-language-features/dist/extension
+[2021-07-28 23:49:09.345] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"api"}
+[2021-07-28 23:49:09.346] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/markdown-math/dist/extension
+[2021-07-29 02:32:00.917] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2021-07-29 02:32:00.921] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/9cf55c7c58354e64bdc50704804ce391/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-07-29 02:32:01.941] [exthost] [info] exiting with code 0

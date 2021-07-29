@@ -1,0 +1,656 @@
+Validating found git in: git
+Using git 2.23.4 from git
+> git rev-parse --git-dir
+Open repository: /home/ec2-user
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/route53/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/provider.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/provider.tf
+> git show --textconv :interactive-learning-tasks/route53/provider.tf
+> git check-ignore -v -z --stdin
+> git show --textconv :.ssh/authorized_keys
+> git ls-files --stage -- /home/ec2-user/.ssh/authorized_keys
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/.ssh/authorized_keys
+> git show --textconv :.ssh/authorized_keys
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/README.md
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/README.md
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/key-pair/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/provider.tf
+> git show --textconv :interactive-learning-tasks/route53/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/provider.tf
+> git show --textconv :interactive-learning-tasks/key-pair/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/provider.tf
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/route53/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/provider.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/provider.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/key-pair/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/provider.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/provider.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/key-pair.tf
+> git show --textconv :interactive-learning-tasks/key-pair/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/key-pair/output.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/route53/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/provider.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/route53/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/output.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ec2-user/interactive-learning-tasks/route53/output.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/ec2-user/interactive-learning-tasks/route53/output.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/route53/output.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/route53/output.tf
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/README.md
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/README.md
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/ec2/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/provider.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/provider.tf
+> git show --textconv :interactive-learning-tasks/ec2/provider.tf
+> git show --textconv :interactive-learning-tasks/route53/output.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/output.tf
+> git show --textconv :interactive-learning-tasks/ec2/provider.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/provider.tf
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/ec2/ec2.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git show --textconv :interactive-learning-tasks/ec2/ec2.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git show --textconv :interactive-learning-tasks/ec2/ec2.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git show --textconv :interactive-learning-tasks/ec2/ec2.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git show --textconv :interactive-learning-tasks/ec2/ec2.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git show --textconv :interactive-learning-tasks/ec2/ec2.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :interactive-learning-tasks/route53/route53.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/route53/route53.tf
+> git show --textconv :interactive-learning-tasks/ec2/ec2.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git check-ignore -v -z --stdin
+> git show --textconv :interactive-learning-tasks/ec2/route53.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/route53.tf
+> git show --textconv :interactive-learning-tasks/ec2/ec2.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git show --textconv :interactive-learning-tasks/ec2/route53.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/route53.tf
+> git show --textconv :interactive-learning-tasks/ec2/ec2.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git show --textconv :interactive-learning-tasks/ec2/route53.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/route53.tf
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/route53.tf
+> git show --textconv :interactive-learning-tasks/ec2/route53.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ec2-user/interactive-learning-tasks/ec2/route53.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/ec2-user/interactive-learning-tasks/ec2/route53.tf
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf
+> git show --textconv :interactive-learning-tasks/ec2/ec2.tf
+> git ls-files --stage -- /home/ec2-user/interactive-learning-tasks/ec2/ec2.tf

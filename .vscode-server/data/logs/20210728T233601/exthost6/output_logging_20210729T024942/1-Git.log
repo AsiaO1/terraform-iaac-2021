@@ -1,0 +1,299 @@
+Validating found git in: git
+Using git 2.23.4 from git
+> git rev-parse --git-dir
+Open repository: /home/ec2-user/terraform-class-combined
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Class1/provider.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class1/provider.tf
+> git cat-file -s 67768158d34a0eb957a185e23fc6864a9efe5ffb
+> git check-ignore -v -z --stdin
+> git show --textconv :Class2/ec2.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/ec2.tf
+> git cat-file -s 10f330519f57533a36dc84cfdeb6ac9b1d58f67a
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Class4/data.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/data.tf
+> git cat-file -s ab4a4a4847370a18df7d3e6207390f948d32415d
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/data.tf
+> git cat-file -s ab4a4a4847370a18df7d3e6207390f948d32415d
+> git show --textconv :Class4/data.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Class4/ec2.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/ec2.tf
+> git cat-file -s 04f5d1bf674953fc7be038cefde860e23cf73e8b
+> git show --textconv :Class4/key.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/key.tf
+> git cat-file -s 7e096584536bd805da585ac991d1332738e01e06
+> git show --textconv :Class4/provider.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/provider.tf
+> git cat-file -s dc58d9a25a123ae59b6bcd37624d445547287c09
+> git check-ignore -v -z --stdin
+> git show --textconv :Class3/data_source.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class3/data_source.tf
+> git cat-file -s 6036c4eceaa3c90a4de611f899be9e0cfaf40427
+> git show --textconv :Class3/newami.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class3/newami.tf
+> git cat-file -s af3ccd5261c18e29a95cde421e1815335b8b543a
+> git show --textconv :Class3/provider.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class3/provider.tf
+> git cat-file -s e70fb2fc93858e5eee9eb18967e13ff90206ec83
+> git show --textconv :Class3/data_source.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class3/data_source.tf
+> git cat-file -s 6036c4eceaa3c90a4de611f899be9e0cfaf40427
+> git show --textconv :Class2/output.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/output.tf
+> git cat-file -s 8ae061ec6767f290cb0af54d4a85ca7bbcce4fd6
+> git show --textconv :Class2/provider.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/provider.tf
+> git cat-file -s 67768158d34a0eb957a185e23fc6864a9efe5ffb
+> git show --textconv :Class2/ec2.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/ec2.tf
+> git cat-file -s 10f330519f57533a36dc84cfdeb6ac9b1d58f67a
+> git show --textconv :Class2/key_pair.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/key_pair.tf
+> git cat-file -s f9a928faa9c8193b7a5785a7e14ca2c097a4136c
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/key_pair.tf
+> git cat-file -s f9a928faa9c8193b7a5785a7e14ca2c097a4136c
+> git show --textconv :Class2/key_pair.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/key_pair.tf
+> git cat-file -s f9a928faa9c8193b7a5785a7e14ca2c097a4136c
+> git show --textconv :Class2/key_pair.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/key_pair.tf
+> git cat-file -s f9a928faa9c8193b7a5785a7e14ca2c097a4136c
+> git show --textconv :Class2/key_pair.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Class3/data_source.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class3/data_source.tf
+> git cat-file -s 6036c4eceaa3c90a4de611f899be9e0cfaf40427
+> git show --textconv :Class3/newami.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class3/newami.tf
+> git cat-file -s af3ccd5261c18e29a95cde421e1815335b8b543a
+> git show --textconv :Class4/variable.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/variable.tf
+> git cat-file -s 0ea14a7a89c9a0f0908eac845061a73f56b524ae
+> git show --textconv :Class4/provider.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/provider.tf
+> git cat-file -s dc58d9a25a123ae59b6bcd37624d445547287c09
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/provider.tf
+> git cat-file -s dc58d9a25a123ae59b6bcd37624d445547287c09
+> git show --textconv :Class4/provider.tf
+> git show --textconv :Class4/key.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/key.tf
+> git cat-file -s 7e096584536bd805da585ac991d1332738e01e06
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Class4/ec2.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/ec2.tf
+> git cat-file -s 04f5d1bf674953fc7be038cefde860e23cf73e8b
+> git show --textconv :Class4/data.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class4/data.tf
+> git cat-file -s ab4a4a4847370a18df7d3e6207390f948d32415d
+> git show --textconv :Class2/output.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/output.tf
+> git cat-file -s 8ae061ec6767f290cb0af54d4a85ca7bbcce4fd6
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Class9-10/elb.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class9-10/elb.tf
+> git cat-file -s 2b230f0a981601fddb46eadeba63f89807c48dc1
+> git show --textconv :Class9-10/data.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class9-10/data.tf
+> git cat-file -s 79f5db4ae39f6ffdde631d2229701d742b77ed8b
+> git check-ignore -v -z --stdin
+> git show --textconv :Class6/output.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class6/output.tf
+> git cat-file -s badbd6beed4afb9e87fbf0496ebb5bd45b30de21
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class6/output.tf
+> git cat-file -s badbd6beed4afb9e87fbf0496ebb5bd45b30de21
+> git show --textconv :Class6/output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class6/output.tf
+> git cat-file -s badbd6beed4afb9e87fbf0496ebb5bd45b30de21
+> git show --textconv :Class6/output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class6/output.tf
+> git cat-file -s badbd6beed4afb9e87fbf0496ebb5bd45b30de21
+> git show --textconv :Class6/output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ec2-user/terraform-class-combined/Class6/output.tf
+> git show --textconv :Class2/output.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/output.tf
+> git cat-file -s 8ae061ec6767f290cb0af54d4a85ca7bbcce4fd6
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class2/output.tf
+> git cat-file -s 8ae061ec6767f290cb0af54d4a85ca7bbcce4fd6
+> git show --textconv :Class2/output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :Class6/variable.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class6/variable.tf
+> git cat-file -s 4f599d993f863adf59f095cb0e502f7a2a9c5aeb
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Class9/key_pair.tf
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class9/key_pair.tf
+> git cat-file -s 521ba4d6c93f7bed3e63980b580263c9b06be0e5
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class9/key_pair.tf
+> git cat-file -s 521ba4d6c93f7bed3e63980b580263c9b06be0e5
+> git show --textconv :Class9/key_pair.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git ls-files --stage -- /home/ec2-user/terraform-class-combined/Class9/key_pair.tf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git cat-file -s 521ba4d6c93f7bed3e63980b580263c9b06be0e5
+> git config --get commit.template
+> git show --textconv :Class9/key_pair.tf
